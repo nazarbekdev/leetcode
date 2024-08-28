@@ -22,4 +22,4 @@ class Solution:
 
 # example
 obj = Solution()
-print(obj.commonFactors(12,4))
+print(obj.commonFactors(10,4))
